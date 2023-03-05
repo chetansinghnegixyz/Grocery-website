@@ -1,0 +1,21 @@
+@media(max-width: 991px){
+    .header-1{
+        padding: 5px 10px;
+    }
+    .header-1 .logo{
+        font-size: 20px;
+    }
+    .container #search-box{
+        width: 250px;
+        height: 100%;
+    }
+    .header-2{
+        padding: 5px 10px;
+    }
+    .header-2 .navbar a{
+        font-size: 10px;
+    }
+    #home .image{
+        margin-left: 22px;
+    }
+}
